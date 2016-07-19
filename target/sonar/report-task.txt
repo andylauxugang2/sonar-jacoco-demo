@@ -1,0 +1,5 @@
+projectKey=cn.xugang:testsonar
+serverUrl=http://sonar.houbank.net:9090
+dashboardUrl=http://sonar.houbank.net:9090/dashboard/index/cn.xugang:testsonar
+ceTaskId=AVYCMxze0G6ByZosukch
+ceTaskUrl=http://sonar.houbank.net:9090/api/ce/task?id=AVYCMxze0G6ByZosukch
